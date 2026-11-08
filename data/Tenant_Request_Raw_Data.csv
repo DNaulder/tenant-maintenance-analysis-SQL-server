@@ -1,0 +1,159 @@
+﻿Id,Start time,Completion time,Tenant Address,Issue Category,Urgency,Description,Date Noticed,Contact Preference,Satisfaction with Resolution,Status,Date Resolved,Cost (NZD),Contractor
+1,02/01/2026 21:38:56,02/01/2026 21:40:37,5 North End,Garden,Low,Gutter full of leaves,02/01/2026,Email,4,Resolved,20/01/2026,119,Home Repair Co
+2,09/01/2026 10:03:23,09/01/2026 10:04:31,22 Wset Close,Plumbing,Medium,Toilet not flushing properly,09/01/2026,Email,,Resolved,15/01/2026,302,Leaky Pipe Plumber
+3,09/01/2026 15:09:37,09/01/2026 15:10:27,22 WEST CLOSE,Electrical,Low,Fuse keeps tripping,09/01/2026,Phone,,Resolved,25/01/2026,147,Sparks Electrical
+4,11/01/2026 10:36:14,11/01/2026 10:37:01,22 WEST CLOSE,Other,Medium,Window wont lock,11/01/2026,Phone,,Resolved,19/01/2026,219,Home Repair Co
+5,15/01/2026 08:18:40,15/01/2026 08:19:59, 3 Bond Street,Heating,Medium,Heat pump leaking water inside,15/01/2026,Email,,Resolved,25/01/2026,356,WarmHome Heating
+6,18/01/2026 07:51:49,18/01/2026 07:53:20,3 Bond Street,Other,Low,Mould in bathroom corner,18/01/2026,Text,,Resolved,07/02/2026,60,Handy Services
+7,21/01/2026 14:51:32,21/01/2026 14:52:02,5 N End,Plumbing,Medium,Blocked shower drain,21/01/2026,Phone,3,Resolved,29/01/2026,761,Leaky Pipe Plumber
+8,22/01/2026 14:31:45,22/01/2026 14:33:26,3 Bond Stret,Electrical,High,Smoke alarm beeping,22/01/2026,Phone,,Resolved,25/01/2026,157,Bright Wire Ltd
+9,27/01/2026 16:18:53,27/01/2026 16:20:17,3 Bond Street,Plumbing,Medium,Water pressure very low,27/01/2026,Text,3,Resolved,05/02/2026,200,Ace Plumbers
+10,29/01/2026 15:17:27,29/01/2026 15:18:51,5 North End,Plumbing,Medium,Water pressure very low,29/01/2026,Email,,Resolved,07/02/2026,335,Leaky Pipe Plumber
+11,31/01/2026 14:19:07,31/01/2026 14:21:00,22 West Close,Other,Low,Front door sticking,31/01/2026,Text,5,Resolved,19/02/2026,323,Home Repair Co
+12,01/02/2026 09:54:52,01/02/2026 09:56:36,5 Nth End,Plumbing,Medium,Toilet not flushing properly,01/02/2026,Phone,,Resolved,09/02/2026,375,Leaky Pipe Plumber
+13,02/02/2026 17:30:43,02/02/2026 17:32:24,5 North end,Other,Low,Mould in bathroom corner,02/02/2026,Text,3,Resolved,20/02/2026,129,Handy Services
+14,03/02/2026 11:39:35,03/02/2026 11:40:41,3 Bond Stret,Plumbing,Low,Blocked shower drain,03/02/2026,Email,4,Resolved,20/02/2026,277,Ace Plumbers
+15,07/02/2026 16:02:49,07/02/2026 16:03:52,22 West Close ,Appliance,Medium,Dryer takes forever,07/02/2026,Email,4,Resolved,14/02/2026,137,Home Repair Co
+16,08/02/2026 14:43:46,08/02/2026 14:44:54,5 North End,Appliance,Medium,Rangehood light out,08/02/2026,Email,,Resolved,17/02/2026,134,Home Repair Co
+17,10/02/2026 18:43:27,10/02/2026 18:44:13,22 West Close,Garden,Low,Gate wont latch,10/02/2026,Phone,3,Resolved,25/02/2026,61,Green Thumb Gardens
+18,15/02/2026 21:25:12,15/02/2026 21:26:38,3 Bond Street,Other,Medium,Wardrobe door off hinge,15/02/2026,Phone,,Resolved,25/02/2026,178,Handy Services
+19,18/02/2026 12:54:50,18/02/2026 12:56:38,5 North End,Appliance,Low,Oven door wont close,18/02/2026,Phone,,Resolved,01/03/2026,127,FixIt Appliances
+20,21/02/2026 07:44:28,21/02/2026 07:45:06,22 West Close ,Garden,Low,Gutter full of leaves,21/02/2026,Phone,,Resolved,14/03/2026,82,Home Repair Co
+21,21/02/2026 07:45:28,21/02/2026 07:46:06,22 West Close ,Garden,Low,Gutter full of leaves,21/02/2026,Phone,,Resolved,14/03/2026,82,Home Repair Co
+22,21/02/2026 13:41:08,21/02/2026 13:42:57,5 north end,Plumbing,Medium,Kitchen tap dripping constantly,21/02/2026,Email,,Resolved,27/02/2026,312,Leaky Pipe Plumber
+23,22/02/2026 11:02:56,22/02/2026 11:04:48, 3 Bond Street,Plumbing,Low,Water pressure very low,22/02/2026,Email,,Resolved,14/03/2026,653,Leaky Pipe Plumber
+24,25/02/2026 10:56:11,25/02/2026 10:58:08,3 bond street,Plumbing,Low,Toilet not flushing properly,,Email,,Resolved,04/03/2026,141,Ace Plumbers
+25,26/02/2026 17:53:24,26/02/2026 17:54:49, 3 Bond Street,Garden,Medium,Hedge overgrown,26/02/2026,Email,,Resolved,03/03/2026,93,Home Repair Co
+26,02/03/2026 16:55:12,02/03/2026 16:57:02, 3 Bond Street,Electrical,Medium,Bathroom light has stopped working,02/03/2026,Phone,,Resolved,08/03/2026,288,Sparks Electrical
+27,03/03/2026 16:03:40,03/03/2026 16:04:27,3 Bond Street,Heating,Medium,Remote for heat pump not working,03/03/2026,Phone,,Resolved,08/03/2026,604,Hot Air inc
+28,06/03/2026 07:37:54,06/03/2026 07:39:38,22 West Close,Appliance,Medium,Fridge not cold enough,06/03/2026,Phone,,Resolved,15/03/2026,118,FixIt Appliances
+29,06/03/2026 08:11:53,06/03/2026 08:12:53,22 West Close,Electrical,Low,Oven isnt turning on at the wall,06/03/2026,Email,5,Resolved,16/03/2026,368,Bright Wire Ltd
+30,07/03/2026 13:03:53,07/03/2026 13:05:44,3 Bond St,Other,Low,Front door sticking,07/03/2026,Email,4,Resolved,18/03/2026,96,Handy Services
+31,10/03/2026 11:07:27,10/03/2026 11:09:24,5 North end,Electrical,High,Smoke alarm beeping,10/03/2026,Email,,Resolved,15/03/2026,178,Bright Wire Ltd
+32,16/03/2026 18:23:42,16/03/2026 18:25:24,22 Wset Close,Electrical,Low,Smoke alarm beeping,16/03/2026,Email,,Resolved,26/03/2026,294,Sparks Electrical
+33,17/03/2026 17:51:03,17/03/2026 17:52:35, 5 North End,Plumbing,Medium,Blocked shower drain,17/03/2026,Phone,4,Resolved,23/03/2026,134,Ace Plumbers
+34,19/03/2026 07:18:29,19/03/2026 07:20:17,22 West Close,Plumbing,Emergency,Toilet not flushing properly,19/03/2026,Email,,Resolved,21/03/2026,609,Ace Plumbers
+35,20/03/2026 18:56:45,20/03/2026 18:57:39,3 Bond Street,Garden,Low,"Lawn needs mowing, mower broken",20/03/2026,Phone,,Resolved,07/04/2026,163,Green Thumb Gardens
+36,20/03/2026 18:57:45,20/03/2026 18:58:39,3 Bond Street,Garden,Low,"Lawn needs mowing, mower broken",20/03/2026,Phone,,Resolved,07/04/2026,163,Green Thumb Gardens
+37,21/03/2026 21:20:45,21/03/2026 21:22:04,3 Bond Stret,Other,Low,Curtain rail fell down,21/03/2026,Text,,Resolved,31/03/2026,152,Home Repair Co
+38,25/03/2026 11:10:05,25/03/2026 11:11:33,3 Bond St,Plumbing,Emergency,Kitchen tap dripping constantly,25/03/2026,Text,4,Resolved,25/03/2026,336,Ace Plumbers
+39,26/03/2026 17:18:16,26/03/2026 17:19:07,22 West Close,Garden,Low,Gutter full of leaves,26/03/2026,Email,,Resolved,10/04/2026,151,Home Repair Co
+40,27/03/2026 21:31:58,27/03/2026 21:33:29,22 West Close,Plumbing,Medium,Hot water cylinder making noise,27/03/2026,Email,5,Resolved,06/04/2026,188,Ace Plumbers
+41,30/03/2026 11:13:05,30/03/2026 11:14:55,3 bond street,Electrical,Medium,Outdoor light flickering,30/03/2026,Email,,Resolved,06/04/2026,485,Sparks Electrical
+42,31/03/2026 10:24:00,31/03/2026 10:25:32,22 Wset Close,Appliance,Medium,Oven door wont close,31/03/2026,Email,,Resolved,09/04/2026,306,Home Repair Co
+43,31/03/2026 10:25:00,31/03/2026 10:26:32,22 Wset Close,Appliance,Medium,Oven door wont close,31/03/2026,Email,,Resolved,09/04/2026,306,Home Repair Co
+44,03/04/2026 20:00:16,03/04/2026 20:01:09,3  Bond Street,Plumbing,High,Kitchen tap dripping constantly,03/04/2026,Email,3,Resolved,08/04/2026,542,Ace Plumbers
+45,03/04/2026 21:58:19,03/04/2026 21:59:25,22 WEST CLOSE,Plumbing,Medium,Kitchen tap dripping constantly,03/04/2026,Email,,Resolved,12/04/2026,347,Leaky Pipe Plumber
+46,06/04/2026 16:54:28,06/04/2026 16:55:13,3 bond street,Plumbing,High,Kitchen tap dripping constantly,06/04/2026,Email,,Resolved,11/04/2026,213,Ace Plumbers
+47,06/04/2026 18:50:01,06/04/2026 18:51:12,22 West Close ,Garden,Medium,Hedge overgrown,06/04/2026,Phone,,Resolved,13/04/2026,63,Home Repair Co
+48,08/04/2026 13:54:34,08/04/2026 13:56:28,3 bond street,Appliance,Medium,Fridge not cold enough,08/04/2026,Text,5,Resolved,13/04/2026,818,FixIt Appliances
+49,09/04/2026 15:48:56,09/04/2026 15:50:11,3 Bond Street,Electrical,Emergency,Power point in bedroom not working,09/04/2026,Text,,Resolved,10/04/2026,105,Sparks Electrical
+50,09/04/2026 16:39:14,09/04/2026 16:40:29,22 West Close,Plumbing,High,Toilet not flushing properly,09/04/2026,Email,3,Resolved,12/04/2026,225,Leaky Pipe Plumber
+51,16/04/2026 14:22:56,16/04/2026 14:23:57,22 WEST CLOSE,Other,Low,Front door sticking,16/04/2026,Text,,Resolved,27/04/2026,238,Handy Services
+52,18/04/2026 09:17:34,18/04/2026 09:18:37,5 N End,Appliance,Low,Dishwasher not draining,18/04/2026,Text,3,Resolved,09/05/2026,136,FixIt Appliances
+53,18/04/2026 10:40:58,18/04/2026 10:42:42,5 North End,Plumbing,Emergency,Blocked shower drain,18/04/2026,Phone,4,Resolved,18/04/2026,120,Leaky Pipe Plumber
+54,21/04/2026 17:51:06,21/04/2026 17:51:46,22 West Close,Plumbing,High,Toilet not flushing properly,21/04/2026,Phone,,Resolved,24/04/2026,415,Leaky Pipe Plumber
+55,25/04/2026 13:41:50,25/04/2026 13:43:40,3 Bond Street,Other,Low,Mould in bathroom corner,25/04/2026,Email,,Resolved,16/05/2026,90,Handy Services
+56,26/04/2026 10:11:15,26/04/2026 10:12:33,22 West Close,Plumbing,Medium,Blocked shower drain,26/04/2026,Phone,,Resolved,02/05/2026,211,Leaky Pipe Plumber
+57,28/04/2026 11:53:18,28/04/2026 11:54:32,3 Bond Street,Other,Medium,Window wont lock,28/04/2026,Text,4,Resolved,07/05/2026,71,Home Repair Co
+58,29/04/2026 19:40:20,29/04/2026 19:41:23,5 North end,Plumbing,High,leak under bathroom sink,29/04/2026,Email,4,Resolved,30/04/2026,323,Leaky Pipe Plumber
+59,01/05/2026 19:22:22,01/05/2026 19:24:08,5 North End,Appliance,Medium,Oven door wont close,01/05/2026,Email,5,Resolved,04/05/2026,75,Home Repair Co
+60,02/05/2026 11:37:39,02/05/2026 11:38:20,3 Bond Street,Appliance,High,Dishwasher not draining,02/05/2026,Email,4,Resolved,06/05/2026,359,FixIt Appliances
+61,04/05/2026 18:52:20,04/05/2026 18:54:07,5 North End,Electrical,High,Bathroom light has stopped working,04/05/2026,Email,,Resolved,07/05/2026,127,Sparks Electrical
+62,05/05/2026 21:35:09,05/05/2026 21:36:05,3 Bond Stret,Plumbing,Medium,Toilet not flushing properly,05/05/2026,Text,,Resolved,15/05/2026,118,Ace Plumbers
+63,05/05/2026 21:49:51,05/05/2026 21:51:13,3 Bond Street,Electrical,Emergency,Oven isnt turning on at the wall,05/05/2026,Text,4,Resolved,05/05/2026,149,Bright Wire Ltd
+64,09/05/2026 11:48:45,09/05/2026 11:50:24,3 Bond Street,Electrical,Medium,Outdoor light flickering,09/05/2026,Email,,Resolved,16/05/2026,272,Sparks Electrical
+65,09/05/2026 20:33:54,09/05/2026 20:34:38,3 bond street,Heating,Emergency,Heat pump leaking water inside,,Email,5,Resolved,09/05/2026,255,WarmHome Heating
+66,10/05/2026 18:15:47,10/05/2026 18:17:29,5 north end,Plumbing,Medium,Outside tap broken,10/05/2026,Phone,3,Resolved,14/05/2026,309,Leaky Pipe Plumber
+67,17/05/2026 16:53:11,17/05/2026 16:54:38,5 North End,Appliance,Low,Fridge not cold enough,17/05/2026,Email,2,Resolved,01/06/2026,161,Home Repair Co
+68,17/05/2026 20:52:21,17/05/2026 20:53:07,22 West Close,Garden,Low,Deck has a rotten board,17/05/2026,Email,5,Resolved,05/06/2026,88,Home Repair Co
+69,18/05/2026 18:48:17,18/05/2026 18:49:14,3 Bond Street,Plumbing,High,Outside tap broken,18/05/2026,Email,3,Resolved,23/05/2026,100,Ace Plumbers
+70,19/05/2026 07:05:11,19/05/2026 07:07:08,3  Bond Street,Appliance,Medium,Washing machine leaking,19/05/2026,Email,,Resolved,26/05/2026,133,Home Repair Co
+71,24/05/2026 20:48:22,24/05/2026 20:49:28,3  Bond Street,Appliance,Medium,Dryer takes forever,24/05/2026,Text,,Resolved,31/05/2026,517,Home Repair Co
+72,25/05/2026 12:15:35,25/05/2026 12:17:07,5 North End,Heating,High,Heatpump not heating,25/05/2026,Email,,Resolved,26/05/2026,116,Hot Air inc
+73,03/06/2026 14:57:31,03/06/2026 14:59:21,5 North End,Heating,Medium,Remote for heat pump not working,03/06/2026,Text,,Resolved,13/06/2026,730,WarmHome Heating
+74,03/06/2026 16:36:54,03/06/2026 16:38:13,22 West Close,Plumbing,Medium,Water pressure very low,03/06/2026,Email,,Resolved,09/06/2026,191,Ace Plumbers
+75,04/06/2026 12:03:50,04/06/2026 12:05:13,5 north end,Heating,High,Heat pump leaking water inside,04/06/2026,Phone,5,Resolved,09/06/2026,392,WarmHome Heating
+76,04/06/2026 21:53:22,04/06/2026 21:54:06,22 West Cl,Plumbing,Medium,Kitchen tap dripping constantly,04/06/2026,Text,2,Resolved,12/06/2026,236,Leaky Pipe Plumber
+77,06/06/2026 17:02:32,06/06/2026 17:03:23,22 West Cl.,Heating,High,Heatpump is a bit noisy,06/06/2026,Phone,,Resolved,11/06/2026,566,WarmHome Heating
+78,07/06/2026 20:43:16,07/06/2026 20:45:01,3 bond street,Plumbing,Low,Water pressure very low,07/06/2026,Email,5,Resolved,15/06/2026,207,Leaky Pipe Plumber
+79,10/06/2026 21:35:14,10/06/2026 21:37:12,3 Bond Stret,Heating,High,Extractor fan very loud,10/06/2026,Text,,Resolved,11/06/2026,166,Hot Air inc
+80,12/06/2026 20:10:42,12/06/2026 20:12:19,22 West Close ,Other,Low,Front door sticking,12/06/2026,Email,2,Resolved,24/06/2026,83,Home Repair Co
+81,16/06/2026 15:50:44,16/06/2026 15:51:42, 3 Bond Street,Plumbing,High,Kitchen tap dripping constantly,16/06/2026,Phone,,Resolved,20/06/2026,595,Leaky Pipe Plumber
+82,21/06/2026 08:27:24,21/06/2026 08:29:13,3 Bond Street,Appliance,Medium,Dishwasher not draining,21/06/2026,Email,,Resolved,30/06/2026,144,Home Repair Co
+83,24/06/2026 16:50:10,24/06/2026 16:52:01,3 Bond Street,Garden,Low,Fence panel has come loose,,Phone,,Resolved,06/07/2026,95,Home Repair Co
+84,24/06/2026 18:04:47,24/06/2026 18:06:10,22 West Cl,Plumbing,Medium,Kitchen tap dripping constantly,24/06/2026,Email,,Resolved,27/06/2026,299,Leaky Pipe Plumber
+85,24/06/2026 20:10:07,24/06/2026 20:11:38,22 West Close,Electrical,High,Bathroom light has stopped working,24/06/2026,Email,,Resolved,28/06/2026,191,Sparks Electrical
+86,25/06/2026 09:22:53,25/06/2026 09:24:50,22 West Close,Plumbing,Emergency,Water pressure very low,25/06/2026,Email,2,Resolved,25/06/2026,306,Ace Plumbers
+87,25/06/2026 14:43:27,25/06/2026 14:44:56, 5 North End,Heating,High,heater makes burning smell,25/06/2026,Email,,Resolved,26/06/2026,619,WarmHome Heating
+88,27/06/2026 12:43:15,27/06/2026 12:44:47,3 Bond St,Appliance,Low,Dryer takes forever,27/06/2026,Phone,2,Resolved,09/07/2026,231,Home Repair Co
+89,27/06/2026 14:28:35,27/06/2026 14:29:42,5 North End,Heating,Medium,Remote for heat pump not working,27/06/2026,Email,3,Resolved,05/07/2026,277,Hot Air inc
+90,29/06/2026 19:46:08,29/06/2026 19:46:44,3 Bond Stret,Appliance,Low,Dishwasher not draining,29/06/2026,Email,,Resolved,12/07/2026,102,FixIt Appliances
+91,29/06/2026 19:47:08,29/06/2026 19:47:44,3 Bond Stret,Appliance,Low,Dishwasher not draining,29/06/2026,Email,,Resolved,12/07/2026,102,FixIt Appliances
+92,02/07/2026 11:04:08,02/07/2026 11:04:49,5 North End,Garden,Low,Deck has a rotten board,02/07/2026,Text,1,Resolved,12/07/2026,100,Home Repair Co
+93,03/07/2026 15:08:04,03/07/2026 15:09:41,3 bond street,Electrical,Low,Oven isnt turning on at the wall,03/07/2026,Phone,,Resolved,14/07/2026,529,Sparks Electrical
+94,03/07/2026 16:29:44,03/07/2026 16:31:32,3 Bond Street,Plumbing,Medium,Water pressure very low,03/07/2026,Email,3,Resolved,06/07/2026,327,Ace Plumbers
+95,06/07/2026 12:34:58,06/07/2026 12:36:03,5 North End,Electrical,Low,Fuse keeps tripping,06/07/2026,Email,3,Resolved,17/07/2026,288,Bright Wire Ltd
+96,06/07/2026 18:49:59,06/07/2026 18:51:37,5 Nth End,Plumbing,Medium,Outside tap broken,06/07/2026,Email,2,Resolved,15/07/2026,551,Leaky Pipe Plumber
+97,07/07/2026 11:11:10,07/07/2026 11:12:43,3 Bond St.,Electrical,Low,Outdoor light flickering,07/07/2026,Email,,Resolved,18/07/2026,288,Sparks Electrical
+98,12/07/2026 10:42:22,12/07/2026 10:43:59,22 west close,Plumbing,High,Outside tap broken,12/07/2026,Email,5,Resolved,16/07/2026,249,Ace Plumbers
+99,15/07/2026 11:37:32,15/07/2026 11:39:20,22 West Close ,Plumbing,Medium,Outside tap broken,15/07/2026,Email,5,Resolved,24/07/2026,587,Leaky Pipe Plumber
+100,15/07/2026 17:48:53,15/07/2026 17:50:28,5 North End,Plumbing,Low,Water pressure very low,15/07/2026,Text,,Resolved,01/08/2026,363,Ace Plumbers
+101,15/07/2026 21:14:58,15/07/2026 21:15:47,5 North End.,Plumbing,Medium,Blocked shower drain,15/07/2026,Phone,5,Resolved,21/07/2026,289,Ace Plumbers
+102,19/07/2026 18:32:39,19/07/2026 18:33:55,3 Bond Street,Appliance,Low,Dishwasher not draining,19/07/2026,Text,,Resolved,09/08/2026,192,FixIt Appliances
+103,22/07/2026 10:45:27,22/07/2026 10:46:41,5 North End,Plumbing,Medium,Toilet not flushing properly,,Phone,5,Resolved,25/07/2026,212,Ace Plumbers
+104,26/07/2026 17:14:12,26/07/2026 17:15:11,3 Bond St,Electrical,Medium,Bathroom light has stopped working,26/07/2026,Email,1,Resolved,03/08/2026,266,Bright Wire Ltd
+105,27/07/2026 08:42:12,27/07/2026 08:43:44,5 North End,Heating,Low,Heatpump not heating,27/07/2026,Text,4,Resolved,09/08/2026,468,WarmHome Heating
+106,27/07/2026 10:15:23,27/07/2026 10:16:38,5 North End,Appliance,High,Fridge not cold enough,27/07/2026,Email,,Resolved,31/07/2026,440,Home Repair Co
+107,27/07/2026 13:12:50,27/07/2026 13:13:34,5 North End.,Heating,High,Heatpump is a bit noisy,27/07/2026,Text,,Resolved,31/07/2026,417,Hot Air inc
+108,29/07/2026 12:13:45,29/07/2026 12:14:22,22 WEST CLOSE,Other,High,Letterbox damaged,29/07/2026,Email,2,Resolved,31/07/2026,124,Home Repair Co
+109,29/07/2026 13:57:34,29/07/2026 13:58:05,3 Bond Street,Plumbing,Emergency,Kitchen tap dripping constantly,29/07/2026,Email,,Resolved,29/07/2026,118,Leaky Pipe Plumber
+110,01/08/2026 11:17:52,01/08/2026 11:19:44,3 Bond Street,Appliance,Medium,Rangehood light out,01/08/2026,Email,3,Resolved,11/08/2026,161,FixIt Appliances
+111,01/08/2026 13:20:51,01/08/2026 13:21:52,22 Wset Close,Electrical,High,Oven isnt turning on at the wall,01/08/2026,Text,3,Resolved,02/08/2026,901,Sparks Electrical
+112,06/08/2026 11:34:37,06/08/2026 11:35:40,22 Wset Close,Heating,High,Heatpump not heating,06/08/2026,Email,,Resolved,08/08/2026,339,Hot Air inc
+113,07/08/2026 14:56:42,07/08/2026 14:57:39,3 Bond Street,Appliance,Low,Dryer takes forever,07/08/2026,Phone,3,Resolved,24/08/2026,91,FixIt Appliances
+114,08/08/2026 09:12:24,08/08/2026 09:13:54,22 West Close,Heating,Medium,heater makes burning smell,08/08/2026,Text,4,Resolved,16/08/2026,555,WarmHome Heating
+115,17/08/2026 14:28:24,17/08/2026 14:28:58,5 North end,Plumbing,Low,Blocked shower drain,17/08/2026,Text,,Resolved,03/09/2026,529,Ace Plumbers
+116,18/08/2026 11:57:33,18/08/2026 11:59:07,3 Bond Street,Appliance,Medium,Rangehood light out,18/08/2026,Email,,Resolved,22/08/2026,264,Home Repair Co
+117,22/08/2026 14:16:25,22/08/2026 14:17:22,3 Bond Street,Appliance,Medium,Oven door wont close,22/08/2026,Email,2,Resolved,29/08/2026,529,Home Repair Co
+118,24/08/2026 11:13:31,24/08/2026 11:14:07, 5 North End,Heating,Medium,Remote for heat pump not working,24/08/2026,Email,4,Resolved,30/08/2026,"1,022",WarmHome Heating
+119,24/08/2026 12:50:25,24/08/2026 12:51:43,3 bond st,Heating,Medium,heater makes burning smell,24/08/2026,Text,,Resolved,29/08/2026,175,WarmHome Heating
+120,29/08/2026 10:25:43,29/08/2026 10:26:49, 5 North End,Electrical,Medium,Outdoor light flickering,29/08/2026,Phone,,Resolved,04/09/2026,323,Sparks Electrical
+121,03/09/2026 09:20:42,03/09/2026 09:22:34,5 North End,Electrical,High,Outdoor light flickering,03/09/2026,Email,3,Resolved,04/09/2026,347,Bright Wire Ltd
+122,09/09/2026 09:10:32,09/09/2026 09:11:09,22 west close,Plumbing,High,Outside tap broken,09/09/2026,Email,,Resolved,14/09/2026,779,Ace Plumbers
+123,09/09/2026 14:47:57,09/09/2026 14:49:13,22 West Close,Electrical,High,Power point in bedroom not working,09/09/2026,Text,4,Resolved,14/09/2026,312,Sparks Electrical
+124,09/09/2026 15:18:12,09/09/2026 15:19:29,3 Bond St.,Heating,Medium,heater makes burning smell,09/09/2026,Email,,Resolved,18/09/2026,312,Hot Air inc
+125,10/09/2026 15:55:42,10/09/2026 15:57:09,5 north end,Other,Low,Mould in bathroom corner,10/09/2026,Text,,Resolved,29/09/2026,227,Home Repair Co
+126,11/09/2026 12:22:16,11/09/2026 12:23:43,22 West Close,Plumbing,High,leak under bathroom sink,11/09/2026,Email,5,Resolved,14/09/2026,296,Leaky Pipe Plumber
+127,11/09/2026 19:43:10,11/09/2026 19:44:47,5 North End,Garden,Low,Deck has a rotten board,11/09/2026,Email,,Resolved,26/09/2026,206,Home Repair Co
+128,11/09/2026 21:38:12,11/09/2026 21:39:01, 5 North End,Appliance,High,Washing machine leaking,11/09/2026,Email,2,Resolved,15/09/2026,143,Home Repair Co
+129,13/09/2026 09:15:00,13/09/2026 09:16:38,5 North End,Electrical,Low,Outdoor light flickering,13/09/2026,Phone,2,Resolved,24/09/2026,318,Bright Wire Ltd
+130,15/09/2026 11:47:18,15/09/2026 11:47:53,3 Bond St,Garden,Low,Gate wont latch,15/09/2026,Email,,Resolved,30/09/2026,71,Home Repair Co
+131,15/09/2026 13:06:11,15/09/2026 13:07:11,22 West Close,Heating,Medium,Heat pump leaking water inside,15/09/2026,Email,3,Resolved,23/09/2026,495,Hot Air inc
+132,16/09/2026 13:27:51,16/09/2026 13:29:01,3  Bond Street,Electrical,Medium,Outdoor light flickering,16/09/2026,Email,,Resolved,20/09/2026,565,Bright Wire Ltd
+133,16/09/2026 15:23:03,16/09/2026 15:23:54,3 bond street,Heating,Medium,Heatpump not heating,16/09/2026,Email,5,Resolved,20/09/2026,455,Hot Air inc
+134,17/09/2026 08:12:21,17/09/2026 08:12:58,22 West Close,Appliance,High,Rangehood light out,17/09/2026,Phone,,Resolved,19/09/2026,320,Home Repair Co
+135,18/09/2026 11:21:30,18/09/2026 11:22:32,22 West Close ,Other,Medium,Curtain rail fell down,18/09/2026,Text,,Resolved,22/09/2026,59,Home Repair Co
+136,18/09/2026 18:18:18,18/09/2026 18:19:47,22 West Close,Electrical,Low,Fuse keeps tripping,18/09/2026,Email,,Resolved,29/09/2026,265,Bright Wire Ltd
+137,21/09/2026 11:35:03,21/09/2026 11:36:42,3 bond st,Heating,Low,Heatpump is a bit noisy,21/09/2026,Email,3,Resolved,30/09/2026,568,Hot Air inc
+138,23/09/2026 19:31:32,23/09/2026 19:32:34,5 North End,Plumbing,Medium,Blocked shower drain,23/09/2026,Email,4,Resolved,02/10/2026,153,Leaky Pipe Plumber
+139,24/09/2026 18:16:49,24/09/2026 18:18:05,22 West Close,Plumbing,High,leak under bathroom sink,24/09/2026,Phone,,Resolved,29/09/2026,293,Leaky Pipe Plumber
+140,25/09/2026 17:23:47,25/09/2026 17:25:46,3 bond street,Electrical,Low,Outdoor light flickering,25/09/2026,Text,,Resolved,07/10/2026,199,Sparks Electrical
+141,26/09/2026 09:57:28,26/09/2026 09:59:14,3 Bond Street,Electrical,Low,Outdoor light flickering,26/09/2026,Email,,Resolved,17/10/2026,322,Sparks Electrical
+142,27/09/2026 08:05:11,27/09/2026 08:05:45,22 Wset Close,Electrical,Medium,Outdoor light flickering,27/09/2026,Email,,Resolved,06/10/2026,369,Bright Wire Ltd
+143,28/09/2026 14:19:22,28/09/2026 14:20:01,3 Bond Street,Electrical,Medium,Fuse keeps tripping,28/09/2026,Email,4,Resolved,04/10/2026,432,Bright Wire Ltd
+144,29/09/2026 17:22:48,29/09/2026 17:23:20, 3 Bond Street,Heating,Medium,Heat pump leaking water inside,29/09/2026,Text,,Resolved,05/10/2026,308,Hot Air inc
+145,05/10/2026 07:36:36,05/10/2026 07:37:54,22 West Close,Appliance,Medium,Dryer takes forever,05/10/2026,Email,,Resolved,13/10/2026,426,FixIt Appliances
+146,12/10/2026 11:36:47,12/10/2026 11:38:41,22 West Close,Appliance,Low,Rangehood light out,12/10/2026,Email,,Resolved,25/10/2026,254,FixIt Appliances
+147,13/10/2026 10:15:54,13/10/2026 10:17:03, 3 Bond Street,Appliance,Medium,Dishwasher not draining,13/10/2026,Phone,2,Resolved,19/10/2026,67,FixIt Appliances
+148,15/10/2026 19:05:12,15/10/2026 19:07:00,3  Bond Street,Electrical,Emergency,Power point in bedroom not working,15/10/2026,Email,,Resolved,17/10/2026,465,Bright Wire Ltd
+149,18/10/2026 10:03:23,18/10/2026 10:05:00,5 N End,Plumbing,High,leak under bathroom sink,18/10/2026,Email,3,Resolved,23/10/2026,211,Leaky Pipe Plumber
+150,22/10/2026 08:48:58,22/10/2026 08:50:17,22 West Cl,Appliance,Low,Washing machine leaking,22/10/2026,Email,,Work In Progress,,,FixIt Appliances
+151,25/10/2026 15:37:01,25/10/2026 15:37:36,22 West Close,Appliance,Medium,Dishwasher not draining,25/10/2026,Phone,,Contractor Booked,,,FixIt Appliances
+152,28/10/2026 19:11:24,28/10/2026 19:12:26,22 West Close,Electrical,Emergency,Oven isnt turning on at the wall,28/10/2026,Phone,,Work In Progress,,,Sparks Electrical
+153,31/10/2026 18:44:17,31/10/2026 18:45:58,22 west close,Appliance,Low,Fridge not cold enough,31/10/2026,Email,,Work In Progress,,,FixIt Appliances
+154,03/11/2026 18:42:48,03/11/2026 18:43:32,3 Bond St.,Plumbing,Medium,Kitchen tap dripping constantly,03/11/2026,Email,,Work In Progress,,,Ace Plumbers
+155,07/11/2026 09:34:12,07/11/2026 09:34:51,3 Bond Street,Electrical,Low,Bathroom Light has stopped working,05/11/2026,Text,,Tenant Contacted,,,
+156,07/11/2026 09:34:56,07/11/2026 09:35:30,22 West Close,Plumbing,High,Toilet not flushing,07/11/2026,Phone,,Contractor Booked,,,Leaky Pipe Plumber
+157,07/11/2026 09:35:33,07/11/2026 09:36:17,5 North End,Heating,Low,Heatpump is a bit noisy,23/10/2026,Email,,Resolved,02/11/2026,250,Hot Air inc
+158,07/11/2026 09:36:55,07/11/2026 09:37:38,3 bond st,Plumbing,Emergency,Tap Broken in Kitchen and water is flooding,07/11/2026,Phone,,Resolved,07/11/2026,400,Leaky Pipe Plumber
