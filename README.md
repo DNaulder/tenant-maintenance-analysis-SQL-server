@@ -104,6 +104,8 @@ Ranked on overall average resolution time, Home Repair Co looks like one of the 
 
 It only looked slow because it takes most of the garden and odd jobs, which are slow for everyone. Comparing like with like reverses the conclusion.
 
+![Contractors compared within category](screenshots/query5_results.png)
+
 ### 5. Heating has a real cost versus quality trade-off
 
 | Contractor | Jobs | Avg days | Avg cost | Avg rating (ratings) |
