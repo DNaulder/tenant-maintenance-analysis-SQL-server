@@ -42,7 +42,7 @@ Requires SQL Server (Express is fine) and SSMS.
 
 | Issue | Handling |
 |---|---|
-| 12 spellings of 3 addresses ("3 Bond Stret", "22 Wset Close", "5 N End"...) | Pattern-matched into a `properties` lookup table |
+| 12 spellings (22 raw entries including case and spacing differences) of 3 addresses ("3 Bond Stret", "22 Wset Close", "5 N End"...) | Pattern-matched into a `properties` lookup table |
 | 4 duplicate submissions (same property, category, description and date, submitted minutes apart) | Removed with `ROW_NUMBER()`, keeping the earliest. 158 raw rows become 154 |
 | 4 requests with no "date noticed" | Fall back to the submission date |
 | Dates exported as `dd/mm/yyyy` | Converted with explicit style 103, so results don't depend on server language settings |
