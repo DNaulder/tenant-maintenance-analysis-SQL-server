@@ -1,11 +1,12 @@
-[README.md](https://github.com/user-attachments/files/34554039/README.md)
 # Tenant Maintenance Analysis (SQL Server)
 
 A SQL Server project that takes a messy export of tenant maintenance requests, cleans it into a small relational schema, and analyses where time and money go across three rental properties.
 
-**Skills shown:** T-SQL, relational schema design (primary and foreign keys, lookup tables), data cleaning and validation, CTEs, window functions (`ROW_NUMBER`, `RANK`, `LAG`), reproducible scripts.
+**Skills shown:** T-SQL, relational schema design (primary and foreign keys, lookup tables), data cleaning and validation, CTEs, window functions (`ROW_NUMBER`, `RANK`, `LAG`), reproducible scripts, Power BI (data modelling, DAX measures, dashboard design).
 
 > **The data is synthetic.** `Tenant_Request_Raw_Data.csv` is dummy data modelled on a property-management request form. It contains no real tenants or addresses.
+
+![Tenant maintenance dashboard](screenshots/dashboard.png)
 
 ---
 
@@ -104,8 +105,6 @@ Ranked on overall average resolution time, Home Repair Co looks like one of the 
 
 It only looked slow because it takes most of the garden and odd jobs, which are slow for everyone. Comparing like with like reverses the conclusion.
 
-![Contractors compared within category](screenshots/Query5_Results.png)
-
 ### 5. Heating has a real cost versus quality trade-off
 
 | Contractor | Jobs | Avg days | Avg cost | Avg rating (ratings) |
@@ -133,6 +132,40 @@ Of 66 repeat reports of the same fault at the same property, 5 were logged befor
 
 The pattern points to recurring underlying causes more than to repairs failing straight away. The clearest exception is the outdoor light at 3 Bond Street: a job resolved on 20 September was followed by another report five days later, and another the day after that.
 
+## Power BI dashboard
+
+The clean tables are also reported on in Power BI: `powerbi/tenant-maintenance-dashboard.pbix`. It connects to the `TenantMaintenance` database in Import mode, loading only `requests`, `properties`, `contractors` and `statuses` (never the staging table). To refresh it against your own instance, change the data source to your server name.
+
+**What it shows**
+- KPI cards: total requests, resolved and open requests, total cost, average cost per request, average days to resolve, ratings given and average satisfaction.
+- Average days to resolve by urgency (finding 1).
+- Total cost by category, with average days to resolve in the tooltip (finding 2).
+- A matrix comparing contractors within each category, with `Ratings Given` kept visible so small samples are obvious (findings 4 and 5).
+- A table of faults reported three or more times (finding 6).
+- Slicers for property and category.
+
+**Reconciliation with the SQL.** The dashboard's measures are checked against the SQL results: 154 requests (147 resolved, 7 open), $42,858 total cost, $291.55 average cost, 8.1 average days to resolve, urgency averages of 0.5 / 3.4 / 7.0 / 14.4, and the contractor matrix rows match query 5.
+
+**One extra figure from the dashboard.** The 15 faults reported three or more times account for 58 of the 154 requests (38%) and $19,462 of the $42,858 spend (45%). This comes from the table's total row, not from a SQL query.
+
+**Two modelling notes**
+- Measures are written in DAX over the relationships created by the foreign keys. For example:
+
+```dax
+Resolved Requests =
+CALCULATE(COUNTROWS(requests), requests[date_resolved] <> BLANK())
+
+Avg Days to Resolve =
+AVERAGEX(
+    FILTER(requests, NOT ISBLANK(requests[date_resolved])),
+    DATEDIFF(requests[date_noticed], requests[date_resolved], DAY)
+)
+```
+
+- The urgency sort order (Emergency, High, Medium, Low) is a column added in Power Query. Building it as a DAX calculated column caused a circular dependency when used to sort `urgency`.
+
+The `.pbix` can't be previewed on GitHub, so the screenshot at the top of this README shows the finished page. The file contains only the synthetic data.
+
 ## Limitations and next steps
 
 - Small sample: some contractor and category combinations have only 1 or 2 jobs, and most requests have no rating. Treat those ranks with care.
@@ -140,7 +173,6 @@ The pattern points to recurring underlying causes more than to repairs failing s
 - Real data would need a fault-type field or fuzzy matching to track recurring faults reliably.
 - Resolution time is measured from "date noticed", not from when the landlord was told, and in whole days, so a same-day fix counts as 0.
 - Repeat faults are matched on description text (case-insensitive), so differently worded reports of the same fault are missed and the repeat counts are probably an underestimate.
-- Next: connect Power BI to the database for a dashboard.
 
 ## Repository layout
 
@@ -152,5 +184,8 @@ The pattern points to recurring underlying causes more than to repairs failing s
 │   ├── 01_setup_and_stage.sql
 │   ├── 02_clean_and_load.sql
 │   └── 03_analysis.sql
+├── powerbi/
+│   └── tenant-maintenance-dashboard.pbix
 └── screenshots/
+    └── dashboard.png
 ```
